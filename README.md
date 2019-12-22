@@ -13,7 +13,7 @@ Udacity Data Science Capstone Project
 
 ### Installation <a name="installation"></a>
 
-The code should run smoothly using Python versions 3.*. The libraries I used are all distributed via Anaconda. 
+The code should run smoothly using Python versions 3.*. The project heavily depends on the PySpark package. The project is based on PySpark version 2.4.3. The libraries I used are all distributed via Anaconda. 
 <br><br>
 
 ### Project Motivation<a name="motivation"></a>
@@ -35,5 +35,6 @@ Both notebooks are also available in an html format.
 The major analytical steps as well as my findings are available in a [blog post](https://medium.com/@christian_sauka/prevent-losing-customers-a648a02d280b) on Medium.
 <br><br>
 
-### Licensing, Authors, Acknowledgements<a name="licensing"></a>
+### Licensing<a name="licensing"></a>
 
+This project is licensed under the MIT License - see the [License.txt](License.txt) file for details.
