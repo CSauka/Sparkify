@@ -32,7 +32,7 @@ Both notebooks are also available in an html format.
 
 ### Analytical process and results<a name="analytical_process"></a>
 
-The major analytical steps as well as my findings are available in a [blog post](https://medium.com/@christian_sauka/airbnb-the-oktoberfest-and-other-very-unfunny-associations-b3bcaaa2a75e) on Medium.
+The major analytical steps as well as my findings are available in a [blog post](https://medium.com/@christian_sauka/prevent-losing-customers-a648a02d280b) on Medium.
 <br><br>
 
 ### Licensing, Authors, Acknowledgements<a name="licensing"></a>
