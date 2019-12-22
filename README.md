@@ -7,7 +7,7 @@ Udacity Data Science Capstone Project
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Results](#results)
+4. [Analytical process and results](#analytical_process)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 <br><br>
 
@@ -30,7 +30,7 @@ There are two notebooks available:
 Both notebooks are also available in an html format.
 <br><br>
 
-### Analytical process and results<a name="results"></a>
+### Analytical process and results<a name="analytical_process"></a>
 
 The major analytical steps as well as my findings are available in a [blog post](https://medium.com/@christian_sauka/airbnb-the-oktoberfest-and-other-very-unfunny-associations-b3bcaaa2a75e) on Medium.
 <br><br>
